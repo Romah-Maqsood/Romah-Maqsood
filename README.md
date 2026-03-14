@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a **BS Computer Science** undergrad (Semester 4)
+- 🎓 I'm a **BS Computer Science** undergrad 
 - 🔐 Currently exploring: **Web Development**, **MongoDB**, **Flask**, **React**, and **Database Systems**
 - 💡 I love building **real-world projects** that solve meaningful problems
 - 🌱 Learning: **Authentication, API integrations, Full-Stack Architectures**
